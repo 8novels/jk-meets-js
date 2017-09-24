@@ -6,7 +6,7 @@
 
 ## 目次
 ### 情報処理部活動報告
-* [#1 恋に落ちるループ -While I'm falling in love-](./story-1)
+* [#1 恋に落ちるループ -While I'm falling in love-](./episode-1)
 * #2 恋に落ちる宣言 -Y’all, I've fallen in love!-
 * #3 恋に落ちる条件 -If I fell in love-
 * #4 恋に落ちるスイッチ -Do you love me, or not?-
