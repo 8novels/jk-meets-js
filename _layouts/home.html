@@ -29,16 +29,18 @@
   js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.10";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<nav class="navbar navbar-expand-sm navbar-light bg-light">
+<nav class="navbar sticky-top navbar-expand-xl navbar-light bg-white">
   <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#topnav" aria-controls="topnav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse text-right" id="topnav">
+    <a href="https://github.com/{{ site.github_username }}{{ "/" | relative_url }}" id="view-on-github" class="btn btn-outline-primary btn-sm" role="button"><span>View on GitHub</span></a>
+    <a href="https://github.com/{{ site.github_username }}{{ "/" | relative_url }}zipball/master" id="download-zip" class="btn btn-outline-primary btn-sm" role="button"><span>Download .zip</span></a>
+  </div>
 </nav>
 
 <div class="container">
-  <section class="text-right">
-    <a href="https://github.com/{{ site.github_username }}{{ "/" | relative_url }}" id="view-on-github" class="btn btn-outline-primary btn-sm" role="button"><span>View on GitHub</span></a>
-    <a href="https://github.com/{{ site.github_username }}{{ "/" | relative_url }}zipball/master" id="download-zip" class="btn btn-outline-primary btn-sm" role="button"><span>Download .zip</span></a>
-    <a href="https://github.com/{{ site.github_username }}{{ "/" | relative_url }}tarball/master" id="download-tar-gz" class="btn btn-outline-primary btn-sm" role="button"><span>Download .tar.gz</span></a>
-  </section>
   <section class="readme">
   {{ content }}
   </section>
@@ -59,7 +61,7 @@
   </section>
   {% endif %}
   <hr>
-  <footer class="row">
+  <footer class="row py-3">
     <div class="col-sm-12 col-md-9">
       <p>{{ site.author | escape }}</p>
       <ul class="list-unstyled">
