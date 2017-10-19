@@ -1,16 +1,9 @@
 恋に落ちるコード.js
 ===================
 
-これは[足羽川永都](https://github.com/8amjp)が中心となって執筆したWeb小説です。
-[GitHub Pages](https://8amjp.github.io/jk-meets-js/)でお読みください。
-
-下記の小説投稿サイトでも公開しています。
-
-* [カクヨム](https://kakuyomu.jp/works/1177354054881230272)
+## JKがJS(JavaScript)を語る。
 
 ## Description
-
-*JKがJS(JavaScript)を語る。*
 
 情報処理部の部室では、瀬尾絵子と篠宮樹里の二人の部員が今日もJavaScriptについてゆるい会話を繰り広げます。恋に落ちそうなコードを求めて。
 
@@ -22,6 +15,10 @@
 * ジャンル: 技術系コメディ
 * 形式: 短編
 * 執筆状況: 連載中
+
+下記の小説投稿サイトでも公開しています。
+
+* [カクヨム](https://kakuyomu.jp/works/1177354054881230272)
 
 ## Author
 
