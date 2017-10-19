@@ -2,12 +2,13 @@ title: 恋に落ちるコード.js
 author: 足羽川永都
 description: >
   情報処理部の部室では、瀬尾絵子と篠宮樹里の二人の部員が今日もJavaScriptについてゆるい会話を繰り広げます。恋に落ちそうなコードを求めて。
-image: https://8amjp.github.io/site-icon.png
+image: site-icon.png
 type: novel
 card: summary
-index: auto
+index: manual
 twitter_username: 8amjp
 github_username:  8amjp
+github_orgname:   8novels
 google_analytics: UA-41627578-3
 
 # Build settings
