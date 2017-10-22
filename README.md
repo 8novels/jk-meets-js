@@ -1,7 +1,7 @@
 恋に落ちるコード.js
 ===================
 
-## JKがJS(JavaScript)を語る。
+JKがJS(JavaScript)を語る。
 
 ## Description
 
@@ -16,10 +16,9 @@
 * 形式: 短編
 * 執筆状況: 連載中
 
+----
+
+## External links
 下記の小説投稿サイトでも公開しています。
 
 * [カクヨム](https://kakuyomu.jp/works/1177354054881230272)
-
-## Author
-
-[足羽川永都](https://github.com/8amjp)
