@@ -16,6 +16,9 @@ JKがJS(JavaScript)を語る。
 瀬尾絵子（せのおえこ）　情報処理部部長（押し付けられた）。主にツッコミ担当。  
 篠宮樹里（しのみやじゅり）　情報処理部副部長。JavaScriptその他諸々について絵子の良き先生。
 
+続きはQiitaで書いたりしてます。  
+[https://qiita.com/8amjp](https://qiita.com/8amjp)
+
 ----
 ## 目次
 
