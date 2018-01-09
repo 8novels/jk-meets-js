@@ -22,6 +22,8 @@ JKがJS(JavaScript)を語る。
 ----
 ## 目次
 
+### 鯖栄高校JS部！
+
 * [#1 恋に落ちるループ -While I’m falling in love-](episodes/001.md)
 * [#2 恋に落ちる宣言 -Y’all, I’ve fallen in love!-](episodes/002.md)
 * [#3 恋に落ちる条件 -If I fell in love-](episodes/003.md)
