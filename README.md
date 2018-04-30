@@ -9,7 +9,7 @@ JKがJS(JavaScript)を語る。
 
 ## Description
 
-鯖栄高校JS部の部室では、瀬尾絵子と篠宮樹里の二人の部員が今日もJavaScriptについてゆるい会話を繰り広げます。恋に落ちそうなコードを求めて。
+JS部の部室では、瀬尾絵子と篠宮樹里の二人の部員が今日もJavaScriptについてゆるい会話を繰り広げます。恋に落ちそうなコードを求めて。
 
 登場人物
 
@@ -21,8 +21,6 @@ JKがJS(JavaScript)を語る。
 
 ----
 ## 目次
-
-### 鯖栄高校JS部！
 
 * [#1 恋に落ちるループ -While I’m falling in love-](episodes/001.md)
 * [#2 恋に落ちる宣言 -Y’all, I’ve fallen in love!-](episodes/002.md)
