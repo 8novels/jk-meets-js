@@ -1,0 +1,41 @@
+{
+  "name": "jk-meets-js",
+  "version": "1.0.0",
+  "description": "恋に落ちるコード.js",
+  "main": "index.js",
+  "dependencies": {
+    "novel-builder": "^0.1.1"
+  },
+  "devDependencies": {},
+  "config": {
+    "epub_title": "恋に落ちるコード.js",
+    "epub_author": "足羽川永都",
+    "epub_publisher": "8novels",
+    "epub_lang": "ja",
+    "epub_tocTitle": "目次",
+    "epub_appendChapterTitles": false
+  },
+  "scripts": {
+    "novel-build": "novel-build",
+    "novel-build-epub": "novel-build-epub",
+    "novel-build-narou": "novel-build-narou",
+    "novel-build-note": "novel-build-note",
+    "novel-build-novelabo": "novel-build-novelabo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8novels/jk-meets-js.git"
+  },
+  "keywords": [
+    "nobel",
+    "小説",
+    "JavaScript",
+    "女子高生"
+  ],
+  "author": "8amjp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8novels/jk-meets-js/issues"
+  },
+  "homepage": "https://github.com/8novels/jk-meets-js#readme"
+}
