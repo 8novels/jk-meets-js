@@ -4,7 +4,7 @@
   "description": "恋に落ちるコード.js",
   "main": "index.js",
   "dependencies": {
-    "novel-builder": "^0.1.1"
+    "novel-builder": "^0.1.2"
   },
   "devDependencies": {},
   "config": {
@@ -16,11 +16,12 @@
     "epub_appendChapterTitles": false
   },
   "scripts": {
-    "novel-build": "novel-build",
-    "novel-build-epub": "novel-build-epub",
-    "novel-build-narou": "novel-build-narou",
-    "novel-build-note": "novel-build-note",
-    "novel-build-novelabo": "novel-build-novelabo"
+    "novel-build": "./bin/novel-build.js",
+    "novel-build-epub": "./bin/novel-build-epub.js",
+    "novel-build-narou": "./bin/novel-build-narou.js",
+    "novel-build-note": "./bin/novel-build-note.js",
+    "novel-build-novelabo": "./bin/novel-build-novelabo.js",
+    "novel-proofread": "./bin/novel-proofread.js"
   },
   "repository": {
     "type": "git",
