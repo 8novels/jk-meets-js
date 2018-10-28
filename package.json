@@ -4,7 +4,7 @@
   "description": "恋に落ちるコード.js",
   "main": "index.js",
   "dependencies": {
-    "novel-builder": "^0.1.2"
+    "novel-builder": "latest"
   },
   "devDependencies": {},
   "config": {
