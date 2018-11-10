@@ -9,19 +9,27 @@
   "devDependencies": {},
   "config": {
     "epub_title": "恋に落ちるコード.js",
+    "epub_title_file_as": "こいにおちるこーどどっとじぇいえす",
     "epub_author": "足羽川永都",
+    "epub_author_file_as": "あすわがわえいと",
     "epub_publisher": "8novels",
-    "epub_lang": "ja",
-    "epub_tocTitle": "目次",
-    "epub_appendChapterTitles": false
+    "epub_publisher_file_as": "えいとのべるず"
   },
   "scripts": {
-    "novel-build": "./bin/novel-build.js",
-    "novel-build-epub": "./bin/novel-build-epub.js",
-    "novel-build-narou": "./bin/novel-build-narou.js",
-    "novel-build-note": "./bin/novel-build-note.js",
-    "novel-build-novelabo": "./bin/novel-build-novelabo.js",
-    "novel-proofread": "./bin/novel-proofread.js"
+    "novel-build": "novel-build",
+    "novel-build-narou": "novel-build-narou",
+    "novel-build-note": "novel-build-note",
+    "novel-build-novelabo": "novel-build-novelabo",
+    "novel-png": "novel-png",
+    "novel-png-square": "novel-png-square",
+    "novel-png-paperback": "novel-png-paperback",
+    "novel-png-note-header": "novel-png-note-header",
+    "novel-png-twitter-header": "novel-png-twitter-header",
+    "novel-proofread": "novel-proofread",
+    "novel-publish": "novel-publish",
+    "novel-publish-horizontal": "novel-publish-horizontal",
+    "novel-publish-vertical": "novel-publish-vertical",
+    "novel-report": "novel-report"
   },
   "repository": {
     "type": "git",
@@ -34,7 +42,7 @@
     "女子高生"
   ],
   "author": "8amjp",
-  "license": "ISC",
+  "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/8novels/jk-meets-js/issues"
   },
