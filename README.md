@@ -9,7 +9,7 @@ JKがJS(JavaScript)を語る。
 
 ## Description
 
-JS部の部室では、瀬尾絵子と篠宮樹里の二人の部員が今日もJavaScriptについてゆるい会話を繰り広げます。恋に落ちそうなコードを求めて。
+情報処理部、通称『JS部』の部室では、瀬尾絵子と篠宮樹里の二人の部員が今日もJavaScriptについてゆるい会話を繰り広げます。恋に落ちそうなコードを求めて。
 
 登場人物
 
@@ -22,21 +22,21 @@ JS部の部室では、瀬尾絵子と篠宮樹里の二人の部員が今日も
 ----
 ## 目次
 
-* [#1 恋に落ちるループ -While I’m falling in love-](episodes/001.md)
-* [#2 恋に落ちる宣言 -Y’all, I’ve fallen in love!-](episodes/002.md)
-* [#3 恋に落ちる条件 -If I fell in love-](episodes/003.md)
-* [#4 恋に落ちるスイッチ -Do you love me, or not?-](episodes/004.md)
-* [#5 萌えるビット演算 -A little bit of love.-](episodes/005.md)
+* [恋に落ちるループ -While I’m falling in love-](episodes/001.md)
+* [恋に落ちる宣言 -Y’all, I’ve fallen in love!-](episodes/002.md)
+* [恋に落ちる条件 -If I fell in love...-](episodes/003.md)
+* [恋に落ちるスイッチ -Do you love me, or not?-](episodes/004.md)
+* [萌えるビット演算 -A little bit of love.-](episodes/005.md)
 * [Code Snippets, あるいは4コマ的な日常.1](episodes/006.md)
-* [#6 恋する位置情報(ジオロケーション)](episodes/007.md)
-* [恋に落ちるラジオ(1) 恋に落ちるAjax -Asynchronous Love!-](episodes/008.md)
+* [恋する位置情報（ジオロケーション） -Where Is the Love?-](episodes/007.md)
+* [[恋に落ちるラジオ] 恋に落ちるAjax -Asynchronous Love!-](episodes/008.md)
 * [Code Snippets, あるいは4コマ的な日常.2](episodes/009.md)
-* [#7 恋に落ちた日 -Every time I fall in love-](episodes/010.md)
-* [恋に落ちるラジオ(2) 恋に落ちるJSON](episodes/011.md)
+* [恋に落ちた日 -Every time I fall in love-](episodes/010.md)
+* [[恋に落ちるラジオ] 恋に落ちるJSON](episodes/011.md)
 * [Code Snippets, あるいは4コマ的な日常.3](episodes/012.md)
 * [EOF 瀬尾絵子、恋に落ちる -I fell in love with you!-](episodes/013.md)
-* [特別編 恋に落ちる寄席(1) 恋するBootstrap](episodes/014.md)
-* [特別編 -絵子と樹里の冬休み- 恋に落ちるイベント](episodes/015.md)
+* [特別編 [恋に落ちる寄席] 恋するBootstrap](episodes/014.md)
+* [特別編 [絵子と樹里の冬休み] 恋に落ちるイベント](episodes/015.md)
 
 ----
 
@@ -44,4 +44,5 @@ JS部の部室では、瀬尾絵子と篠宮樹里の二人の部員が今日も
 
 下記の小説投稿サイトでも公開しています。
 
+* [note](https://note.mu/8am/m/m1c26770d4955)
 * [カクヨム](https://kakuyomu.jp/works/1177354054881230272)
