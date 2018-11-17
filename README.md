@@ -32,9 +32,9 @@ JKがJS(JavaScript)を語る。
 * [[恋に落ちるラジオ] 恋に落ちるAjax -Asynchronous Love!-](episodes/008.md)
 * [Code Snippets, あるいは4コマ的な日常.2](episodes/009.md)
 * [恋に落ちた日 -Every time I fall in love-](episodes/010.md)
-* [[恋に落ちるラジオ] 恋に落ちるJSON](episodes/011.md)
+* [[恋に落ちるラジオ] 恋に落ちるJSON -Love Notation-](episodes/011.md)
 * [Code Snippets, あるいは4コマ的な日常.3](episodes/012.md)
-* [EOF 瀬尾絵子、恋に落ちる -I fell in love with you!-](episodes/013.md)
+* [[EOF] 瀬尾絵子、恋に落ちる -I fell in love with you!-](episodes/013.md)
 * [特別編 [恋に落ちる寄席] 恋するBootstrap](episodes/014.md)
 * [特別編 [絵子と樹里の冬休み] 恋に落ちるイベント](episodes/015.md)
 
